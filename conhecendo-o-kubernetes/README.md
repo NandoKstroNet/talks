@@ -1,6 +1,6 @@
-#Links Importantes Palestra Conhcendo o Kubernetes
+# Links Importantes Palestra Conhcendo o Kubernetes
 
-###Palestra: `loading...`
+### Palestra: `loading...`
 
 ## Links/ Posts & mais!
 
