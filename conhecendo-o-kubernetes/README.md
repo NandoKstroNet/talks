@@ -1,4 +1,4 @@
-# Links Importantes Palestra Conhcendo o Kubernetes
+# Links Importantes Palestra Conhecendo o Kubernetes
 
 ### Palestra: `loading...`
 
